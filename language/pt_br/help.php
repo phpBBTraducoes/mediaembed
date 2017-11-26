@@ -2,7 +2,7 @@
 /**
  *
  * phpBB Media Embed PlugIn extension for the phpBB Forum Software package.
- * Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 1.0.0] (https://github.com/phpBBTraducoes)
+ * Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 1.0.1] (https://github.com/phpBBTraducoes)
  * @copyright (c) 2016 phpBB Limited <https://www.phpbb.com>
  * @license GNU General Public License, version 2 (GPL-2.0)
  *
@@ -52,5 +52,4 @@ $lang = array_merge($lang, array(
 										visite a <a href="http://s9etextformatter.readthedocs.io/Plugins/MediaEmbed/Sites/">
 										MediaEmbed Plugin Documentation</a>.',
 	'HELP_EMBEDDING_MEDIA_DEMO'		=>	'https://youtu.be/QH2-TGUlwu4',
-
 ));
